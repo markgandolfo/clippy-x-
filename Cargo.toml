@@ -1,0 +1,13 @@
+[package]
+name = "clippy"
+authors = ["Mark Gaandolfo <mark@gandolfo.com.au"]
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "x"
+path = "src/main.rs"
+
+[dependencies]
+arboard = "3.4.0"
+atty = "0.2.14"
