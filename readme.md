@@ -19,5 +19,5 @@ x #=> hello world
 # Installation
 
 ```sh
-cargo install clippy
+cargo install mark-clipboard
 ```
