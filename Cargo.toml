@@ -1,11 +1,12 @@
 [package]
 name = "mark-clipboard"
 authors = ["Mark Gaandolfo <mark@gandolfo.com.au"]
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 description = "A simple clipboard manager for the command line"
 license = "MIT"
 repository = "https://github.com/markgandolfo/mark-clipboard"
+readme = "README.md"
 
 [[bin]]
 name = "x"
